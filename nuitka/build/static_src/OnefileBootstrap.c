@@ -58,8 +58,6 @@
 #include <unistd.h>
 #endif
 
-#define NUITKA_PRINT_TRACE(arg)
-
 #ifndef __IDE_ONLY__
 // Generated during build with optional defines.
 #include "onefile_definitions.h"
